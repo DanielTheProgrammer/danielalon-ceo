@@ -13,6 +13,8 @@ const TIERS: InterestTier[] = [
     label: 'What I want to build in',
     style: 'hot',
     items: [
+      'The new agent internet',
+      'A2A negotiation',
       'Deep tech',
       'Infrastructure',
       'Agent observability',
