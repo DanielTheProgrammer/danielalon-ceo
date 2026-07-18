@@ -22,6 +22,7 @@ const TIERS: InterestTier[] = [
       'Agent economy',
       'AI tax systems',
       'Open source',
+      'AIGUI',
     ],
   },
   {
