@@ -21,6 +21,7 @@ const TIERS: InterestTier[] = [
       'Solutions for companies building their own models',
       'Agent economy',
       'AI tax systems',
+      'Open source',
     ],
   },
   {
